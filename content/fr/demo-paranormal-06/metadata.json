@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-paranormal-06",
+  "language": "fr",
+  "title": "Ombre doree",
+  "slug": "demo-paranormal-06",
+  "author": "Studio Lumen",
+  "description": "Un roman paranormal complet autour de un pouvoir cache qui s'eveille apres minuit.",
+  "longDescription": "Ombre doree est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Paranormal"
+  ],
+  "tags": [
+    "Paranormal",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 54,
+  "translationOf": "demo-en-paranormal-06"
+}

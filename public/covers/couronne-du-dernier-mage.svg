@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
+  <title id="title">Couronne du dernier mage cover</title>
+  <desc id="desc">Minimal book cover for Couronne du dernier mage.</desc>
+  <rect width="720" height="960" fill="#402f3c"/>
+  <rect x="54" y="72" width="612" height="816" rx="24" fill="none" stroke="#f4f0e8" stroke-width="3" opacity="0.72"/>
+  <path d="M120 244 C220 180 310 180 420 244 C496 290 540 370 548 484 C474 430 400 410 326 424 C244 440 176 498 120 598 Z" fill="#2f5d50" opacity="0.9"/>
+  <circle cx="548" cy="176" r="54" fill="#f4f0e8" opacity="0.9"/>
+  <text x="96" y="640" fill="#f4f0e8" font-family="Georgia, serif" font-size="64" font-weight="700">
+    <tspan x="96" dy="0">Couronne</tspan><tspan x="96" dy="76">du</tspan><tspan x="96" dy="76">dernier</tspan><tspan x="96" dy="76">mage</tspan>
+  </text>
+  <text x="96" y="820" fill="#f4f0e8" font-family="Arial, sans-serif" font-size="28" opacity="0.86">Elias Rowan</text>
+</svg>

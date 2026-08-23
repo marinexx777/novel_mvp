@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-paranormal-08",
+  "language": "en",
+  "title": "The Wild Shadow",
+  "slug": "demo-paranormal-08",
+  "author": "Lumen Studio",
+  "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+  "longDescription": "The Wild Shadow is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Paranormal"
+  ],
+  "tags": [
+    "Paranormal",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 52,
+  "translationOf": null
+}

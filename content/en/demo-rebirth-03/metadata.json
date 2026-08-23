@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-rebirth-03",
+  "language": "en",
+  "title": "The Hidden Return",
+  "slug": "demo-rebirth-03",
+  "author": "Lumen Studio",
+  "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+  "longDescription": "The Hidden Return is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Rebirth"
+  ],
+  "tags": [
+    "Rebirth",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 57,
+  "translationOf": null
+}

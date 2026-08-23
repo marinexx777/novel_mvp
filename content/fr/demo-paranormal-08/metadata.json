@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-paranormal-08",
+  "language": "fr",
+  "title": "Ombre sauvage",
+  "slug": "demo-paranormal-08",
+  "author": "Studio Lumen",
+  "description": "Un roman paranormal complet autour de un pouvoir cache qui s'eveille apres minuit.",
+  "longDescription": "Ombre sauvage est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Paranormal"
+  ],
+  "tags": [
+    "Paranormal",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 52,
+  "translationOf": "demo-en-paranormal-08"
+}

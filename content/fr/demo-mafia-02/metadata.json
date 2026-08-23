@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-mafia-02",
+  "language": "fr",
+  "title": "Serment d'argent",
+  "slug": "demo-mafia-02",
+  "author": "Studio Lumen",
+  "description": "Un roman mafia complet autour de d'anciennes loyautes brisees par un choix dangereux.",
+  "longDescription": "Serment d'argent est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Mafia"
+  ],
+  "tags": [
+    "Mafia",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 58,
+  "translationOf": "demo-en-mafia-02"
+}

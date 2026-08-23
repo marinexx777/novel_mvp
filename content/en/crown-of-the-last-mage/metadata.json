@@ -1,0 +1,25 @@
+{
+  "id": "crown-of-the-last-mage",
+  "language": "en",
+  "title": "Crown of the Last Mage",
+  "slug": "crown-of-the-last-mage",
+  "author": "Elias Rowan",
+  "description": "A fallen mage wakes before the war that killed his kingdom and races to change the final page of history.",
+  "longDescription": "Cael remembers the crown breaking, the towers burning, and the spell he cast too late. When he wakes ten years earlier with the same scar on his palm, he has one chance to gather the allies he once ignored. Every choice moves him closer to the throne, but the enemy also seems to remember the future.",
+  "cover": "/covers/crown-of-the-last-mage.svg",
+  "status": "completed",
+  "genres": [
+    "Fantasy",
+    "Rebirth",
+    "Adventure"
+  ],
+  "tags": [
+    "Magic",
+    "Second Chance",
+    "Ancient Kingdom"
+  ],
+  "chapterCount": 12,
+  "featured": false,
+  "ranking": 84,
+  "translationOf": null
+}

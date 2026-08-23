@@ -1,0 +1,28 @@
+{
+  "name": "overseas-webnovel-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "generate-search-index": "node scripts/generate-search-index.mjs",
+    "generate-seo-files": "node scripts/generate-seo-files.mjs",
+    "prepare-static": "npm run generate-search-index && npm run generate-seo-files",
+    "prebuild": "npm run prepare-static",
+    "import-novel": "node scripts/import-novel.mjs",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "^14.2.5",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.10",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2"
+  }
+}

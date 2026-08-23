@@ -1,0 +1,25 @@
+{
+  "id": "alpha-des-cendres",
+  "language": "fr",
+  "title": "Alpha des cendres",
+  "slug": "alpha-des-cendres",
+  "author": "Nora Vale",
+  "description": "Un loup banni revient dans une meute urbaine divisée et doit choisir entre revanche, loyauté et la compagne qui se souvient de son vrai nom.",
+  "longDescription": "Rowan a quitté la meute des Cendres après un incendie qui l'a fait passer pour un traître. Des années plus tard, la même fumée monte au-dessus du quartier du fleuve, et Mira, la guérisseuse qui l'a sauvé autrefois, accepte seule de suivre les preuves. Leur enquête traverse frontières de meute, dettes mafieuses et serment lunaire oublié.",
+  "cover": "/covers/alpha-des-cendres.svg",
+  "status": "completed",
+  "genres": [
+    "Loup-garou",
+    "Mafia",
+    "Paranormal"
+  ],
+  "tags": [
+    "Âme soeur",
+    "Meute rivale",
+    "Héritier caché"
+  ],
+  "chapterCount": 12,
+  "featured": true,
+  "ranking": 91,
+  "translationOf": "ashbound-alpha"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-paranormal-10",
+  "language": "fr",
+  "title": "Ombre du nord",
+  "slug": "demo-paranormal-10",
+  "author": "Studio Lumen",
+  "description": "Un roman paranormal complet autour de un pouvoir cache qui s'eveille apres minuit.",
+  "longDescription": "Ombre du nord est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Paranormal"
+  ],
+  "tags": [
+    "Paranormal",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 50,
+  "translationOf": "demo-en-paranormal-10"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-loup-garou-01",
+  "language": "fr",
+  "title": "Meute d'ambre",
+  "slug": "demo-loup-garou-01",
+  "author": "Studio Lumen",
+  "description": "Un roman loup-garou complet autour de des rivaux de meute forces de suivre la meme piste lunaire.",
+  "longDescription": "Meute d'ambre est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Loup-garou"
+  ],
+  "tags": [
+    "Loup-garou",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 59,
+  "translationOf": "demo-en-werewolf-01"
+}

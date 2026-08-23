@@ -1,0 +1,25 @@
+{
+  "id": "couronne-du-dernier-mage",
+  "language": "fr",
+  "title": "Couronne du dernier mage",
+  "slug": "couronne-du-dernier-mage",
+  "author": "Elias Rowan",
+  "description": "Un mage déchu se réveille avant la guerre qui a détruit son royaume et tente de changer la dernière page de l'histoire.",
+  "longDescription": "Cael se souvient de la couronne brisée, des tours en flammes et du sort lancé trop tard. Lorsqu'il se réveille dix ans plus tôt avec la même cicatrice dans la paume, il obtient une seule chance de réunir les alliés qu'il avait négligés. Chaque décision le rapproche du trône, mais l'ennemi semble lui aussi se souvenir de l'avenir.",
+  "cover": "/covers/couronne-du-dernier-mage.svg",
+  "status": "completed",
+  "genres": [
+    "Fantasy",
+    "Renaissance",
+    "Aventure"
+  ],
+  "tags": [
+    "Magie",
+    "Seconde chance",
+    "Royaume ancien"
+  ],
+  "chapterCount": 12,
+  "featured": false,
+  "ranking": 84,
+  "translationOf": "crown-of-the-last-mage"
+}

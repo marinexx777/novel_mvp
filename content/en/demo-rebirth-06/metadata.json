@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-rebirth-06",
+  "language": "en",
+  "title": "The Golden Return",
+  "slug": "demo-rebirth-06",
+  "author": "Lumen Studio",
+  "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+  "longDescription": "The Golden Return is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Rebirth"
+  ],
+  "tags": [
+    "Rebirth",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 54,
+  "translationOf": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-fantastique-07",
+  "language": "fr",
+  "title": "Couronne cachee",
+  "slug": "demo-fantastique-07",
+  "author": "Studio Lumen",
+  "description": "Un roman fantasy complet autour de une magie perdue qui revient avant la chute du royaume.",
+  "longDescription": "Couronne cachee est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Fantasy",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 53,
+  "translationOf": "demo-en-fantasy-07"
+}

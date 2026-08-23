@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960" role="img" aria-labelledby="title desc">
+  <title id="title">Ashbound Alpha cover</title>
+  <desc id="desc">Minimal book cover for Ashbound Alpha.</desc>
+  <rect width="720" height="960" fill="#252b36"/>
+  <rect x="54" y="72" width="612" height="816" rx="24" fill="none" stroke="#e8e1d2" stroke-width="3" opacity="0.72"/>
+  <path d="M120 244 C220 180 310 180 420 244 C496 290 540 370 548 484 C474 430 400 410 326 424 C244 440 176 498 120 598 Z" fill="#b1843f" opacity="0.9"/>
+  <circle cx="548" cy="176" r="54" fill="#e8e1d2" opacity="0.9"/>
+  <text x="96" y="640" fill="#e8e1d2" font-family="Georgia, serif" font-size="64" font-weight="700">
+    <tspan x="96" dy="0">Ashbound</tspan><tspan x="96" dy="76">Alpha</tspan>
+  </text>
+  <text x="96" y="820" fill="#e8e1d2" font-family="Arial, sans-serif" font-size="28" opacity="0.86">Nora Vale</text>
+</svg>

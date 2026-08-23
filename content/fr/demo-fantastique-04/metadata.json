@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-fantastique-04",
+  "language": "fr",
+  "title": "Couronne de minuit",
+  "slug": "demo-fantastique-04",
+  "author": "Studio Lumen",
+  "description": "Un roman fantasy complet autour de une magie perdue qui revient avant la chute du royaume.",
+  "longDescription": "Couronne de minuit est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Fantasy",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 56,
+  "translationOf": "demo-en-fantasy-04"
+}

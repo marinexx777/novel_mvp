@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-renaissance-04",
+  "language": "fr",
+  "title": "Retour de minuit",
+  "slug": "demo-renaissance-04",
+  "author": "Studio Lumen",
+  "description": "Un roman renaissance complet autour de une seconde chance qui se souvient de chaque ancienne erreur.",
+  "longDescription": "Retour de minuit est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Renaissance"
+  ],
+  "tags": [
+    "Renaissance",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 56,
+  "translationOf": "demo-en-rebirth-04"
+}

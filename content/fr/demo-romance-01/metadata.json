@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-romance-01",
+  "language": "fr",
+  "title": "Promesse d'ambre",
+  "slug": "demo-romance-01",
+  "author": "Studio Lumen",
+  "description": "Un roman romance complet autour de un coeur prudent qui reapprend la confiance.",
+  "longDescription": "Promesse d'ambre est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Romance"
+  ],
+  "tags": [
+    "Romance",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 59,
+  "translationOf": "demo-en-romance-01"
+}

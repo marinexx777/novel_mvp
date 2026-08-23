@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960" role="img" aria-labelledby="title">
+  <title id="title">Default novel cover</title>
+  <rect width="720" height="960" fill="#2f5d50"/>
+  <rect x="72" y="96" width="576" height="768" rx="24" fill="none" stroke="#f2efe6" stroke-width="3"/>
+  <text x="120" y="500" fill="#f2efe6" font-family="Georgia, serif" font-size="60" font-weight="700">Novel</text>
+</svg>

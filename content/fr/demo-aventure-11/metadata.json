@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-aventure-11",
+  "language": "fr",
+  "title": "Voyage finale",
+  "slug": "demo-aventure-11",
+  "author": "Studio Lumen",
+  "description": "Un roman aventure complet autour de une carte, une route secrete et une derniere decision courageuse.",
+  "longDescription": "Voyage finale est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Aventure"
+  ],
+  "tags": [
+    "Aventure",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 49,
+  "translationOf": "demo-en-adventure-11"
+}

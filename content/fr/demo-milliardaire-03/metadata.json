@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-milliardaire-03",
+  "language": "fr",
+  "title": "Dynastie secrete",
+  "slug": "demo-milliardaire-03",
+  "author": "Studio Lumen",
+  "description": "Un roman milliardaire complet autour de un contrat qui transforme l'ambition en risque sentimental.",
+  "longDescription": "Dynastie secrete est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Milliardaire"
+  ],
+  "tags": [
+    "Milliardaire",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 57,
+  "translationOf": "demo-en-billionaire-03"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-fantasy-10",
+  "language": "en",
+  "title": "The Northern Crown",
+  "slug": "demo-fantasy-10",
+  "author": "Lumen Studio",
+  "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+  "longDescription": "The Northern Crown is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Fantasy",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 50,
+  "translationOf": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "contrat-sous-la-lune",
+  "language": "fr",
+  "title": "Contrat sous la lune",
+  "slug": "contrat-sous-la-lune",
+  "author": "Maya Sterling",
+  "description": "Une héritière pragmatique accepte des fiançailles publiques avec un milliardaire réservé, puis découvre qu'un ancien secret de famille se cache dans le contrat.",
+  "longDescription": "Élena Ward croit que ce contrat de fiançailles protégera l'entreprise de sa mère et se terminera sans scandale. Adrien Vale en a besoin pour bloquer une prise de contrôle et préserver sa vie privée. Leurs règles se fissurent lorsque des lettres anciennes, un gala nocturne et un bijou disparu les ramènent vers un secret que leurs deux familles ont enterré.",
+  "cover": "/covers/contrat-sous-la-lune.svg",
+  "status": "completed",
+  "genres": [
+    "Romance",
+    "Milliardaire"
+  ],
+  "tags": [
+    "Mariage arrangé",
+    "Lente tension",
+    "Secrets de ville"
+  ],
+  "chapterCount": 12,
+  "featured": true,
+  "ranking": 96,
+  "translationOf": "moonlit-contract"
+}

@@ -1,0 +1,40 @@
+﻿# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Local logs and diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.next-dev*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local packaged artifacts
+*.zip
+
+# Local project notes and audit helpers
+REQUIREMENTS*.docx
+AntibotAuditTool.cmd
+run-czbooks-antibot-audit.cmd
+README-直接使用说明.txt
+README-czbooks-antibot-audit-package.txt
+antibot-audit-direct-tool/
+czbooks-antibot-audit-package/
+scripts/czbooks-antibot-audit.mjs
+scripts/run-czbooks-antibot-audit.ps1
+scripts/crawl-tapon-completed.mjs

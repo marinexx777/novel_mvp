@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-werewolf-01",
+  "language": "en",
+  "title": "The Amber Pack",
+  "slug": "demo-werewolf-01",
+  "author": "Lumen Studio",
+  "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+  "longDescription": "The Amber Pack is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Werewolf"
+  ],
+  "tags": [
+    "Werewolf",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 59,
+  "translationOf": null
+}

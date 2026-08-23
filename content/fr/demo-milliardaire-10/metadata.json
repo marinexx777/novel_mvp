@@ -1,0 +1,23 @@
+{
+  "id": "demo-fr-milliardaire-10",
+  "language": "fr",
+  "title": "Dynastie du nord",
+  "slug": "demo-milliardaire-10",
+  "author": "Studio Lumen",
+  "description": "Un roman milliardaire complet autour de un contrat qui transforme l'ambition en risque sentimental.",
+  "longDescription": "Dynastie du nord est une histoire de demonstration terminee pour les pages de categorie, la recherche et la lecture statique.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Milliardaire"
+  ],
+  "tags": [
+    "Milliardaire",
+    "Catalogue demo",
+    "Termine"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 50,
+  "translationOf": "demo-en-billionaire-10"
+}

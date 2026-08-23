@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-billionaire-09",
+  "language": "en",
+  "title": "The Starlit Dynasty",
+  "slug": "demo-billionaire-09",
+  "author": "Lumen Studio",
+  "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+  "longDescription": "The Starlit Dynasty is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Billionaire"
+  ],
+  "tags": [
+    "Billionaire",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 51,
+  "translationOf": null
+}

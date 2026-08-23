@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-mafia-07",
+  "language": "en",
+  "title": "The Secret Oath",
+  "slug": "demo-mafia-07",
+  "author": "Lumen Studio",
+  "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+  "longDescription": "The Secret Oath is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Mafia"
+  ],
+  "tags": [
+    "Mafia",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 53,
+  "translationOf": null
+}

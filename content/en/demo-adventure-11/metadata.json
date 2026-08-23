@@ -1,0 +1,23 @@
+{
+  "id": "demo-en-adventure-11",
+  "language": "en",
+  "title": "The Final Voyage",
+  "slug": "demo-adventure-11",
+  "author": "Lumen Studio",
+  "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+  "longDescription": "The Final Voyage is a compact completed demo story built for category browsing, search, and static reading flows.",
+  "cover": "/covers/default.svg",
+  "status": "completed",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Adventure",
+    "Demo Catalog",
+    "Completed"
+  ],
+  "chapterCount": 3,
+  "featured": false,
+  "ranking": 49,
+  "translationOf": null
+}

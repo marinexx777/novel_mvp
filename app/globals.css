@@ -1,0 +1,97 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #fbfbf8;
+  color: #171717;
+  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.reader-prose p {
+  margin: 0 0 1.35rem;
+}
+
+.reader-prose p:last-child {
+  margin-bottom: 0;
+}
+
+.reader-root {
+  --reader-font-size: 18px;
+  --reader-line-height: 1.8;
+  --reader-bg: #f4efe3;
+  --reader-fg: #221f1a;
+  --reader-muted: #6f675c;
+  --reader-panel: #fffaf0;
+  --reader-border: #ded6c6;
+  background: var(--reader-bg);
+  color: var(--reader-fg);
+  transition: background-color 160ms ease, color 160ms ease;
+}
+
+.reader-root[data-reader-theme="light"] {
+  --reader-bg: #fbfbf8;
+  --reader-fg: #171717;
+  --reader-muted: #666666;
+  --reader-panel: #ffffff;
+  --reader-border: #dedbd2;
+}
+
+.reader-root[data-reader-theme="dark"] {
+  --reader-bg: #171717;
+  --reader-fg: #f7f2e8;
+  --reader-muted: #b7afa3;
+  --reader-panel: #22201d;
+  --reader-border: #3a332b;
+}
+
+.reader-root[data-reader-theme="sepia"] {
+  --reader-bg: #f4efe3;
+  --reader-fg: #221f1a;
+  --reader-muted: #6f675c;
+  --reader-panel: #fffaf0;
+  --reader-border: #ded6c6;
+}
+
+.reader-prose {
+  color: var(--reader-fg);
+  font-size: var(--reader-font-size);
+  line-height: var(--reader-line-height);
+}
+
+.reader-title {
+  color: var(--reader-fg);
+}
+
+.reader-muted {
+  color: var(--reader-muted);
+}
+
+.reader-link {
+  color: #a83f39;
+}
+
+.reader-panel {
+  background: var(--reader-panel);
+  border-color: var(--reader-border);
+  color: var(--reader-fg);
+}

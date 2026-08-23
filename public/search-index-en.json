@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "ashbound-alpha",
+    "title": "Ashbound Alpha",
+    "author": "Nora Vale",
+    "genres": [
+      "Werewolf",
+      "Mafia",
+      "Paranormal"
+    ],
+    "tags": [
+      "Fated Mate",
+      "Pack Rivalry",
+      "Hidden Heir"
+    ],
+    "description": "A banished wolf returns to a divided city pack and must choose between revenge, loyalty, and the mate who remembers his real name.",
+    "slug": "ashbound-alpha"
+  },
+  {
+    "id": "crown-of-the-last-mage",
+    "title": "Crown of the Last Mage",
+    "author": "Elias Rowan",
+    "genres": [
+      "Fantasy",
+      "Rebirth",
+      "Adventure"
+    ],
+    "tags": [
+      "Magic",
+      "Second Chance",
+      "Ancient Kingdom"
+    ],
+    "description": "A fallen mage wakes before the war that killed his kingdom and races to change the final page of history.",
+    "slug": "crown-of-the-last-mage"
+  },
+  {
+    "id": "moonlit-contract",
+    "title": "Moonlit Contract",
+    "author": "Maya Sterling",
+    "genres": [
+      "Romance",
+      "Billionaire"
+    ],
+    "tags": [
+      "Marriage Contract",
+      "Slow Burn",
+      "City Secrets"
+    ],
+    "description": "A practical heiress agrees to a public engagement with a guarded billionaire, then discovers the contract hides a family mystery.",
+    "slug": "moonlit-contract"
+  },
+  {
+    "id": "demo-en-fantasy-01",
+    "title": "The Amber Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-01"
+  },
+  {
+    "id": "demo-en-billionaire-01",
+    "title": "The Amber Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-01"
+  },
+  {
+    "id": "demo-en-mafia-01",
+    "title": "The Amber Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-01"
+  },
+  {
+    "id": "demo-en-werewolf-01",
+    "title": "The Amber Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-01"
+  },
+  {
+    "id": "demo-en-romance-01",
+    "title": "The Amber Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-01"
+  },
+  {
+    "id": "demo-en-rebirth-01",
+    "title": "The Amber Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-01"
+  },
+  {
+    "id": "demo-en-paranormal-01",
+    "title": "The Amber Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-01"
+  },
+  {
+    "id": "demo-en-adventure-01",
+    "title": "The Amber Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-01"
+  },
+  {
+    "id": "demo-en-fantasy-05",
+    "title": "The Crimson Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-05"
+  },
+  {
+    "id": "demo-en-billionaire-05",
+    "title": "The Crimson Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-05"
+  },
+  {
+    "id": "demo-en-mafia-05",
+    "title": "The Crimson Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-05"
+  },
+  {
+    "id": "demo-en-werewolf-05",
+    "title": "The Crimson Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-05"
+  },
+  {
+    "id": "demo-en-romance-05",
+    "title": "The Crimson Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-05"
+  },
+  {
+    "id": "demo-en-rebirth-05",
+    "title": "The Crimson Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-05"
+  },
+  {
+    "id": "demo-en-paranormal-05",
+    "title": "The Crimson Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-05"
+  },
+  {
+    "id": "demo-en-adventure-05",
+    "title": "The Crimson Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-05"
+  },
+  {
+    "id": "demo-en-fantasy-11",
+    "title": "The Final Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-11"
+  },
+  {
+    "id": "demo-en-billionaire-11",
+    "title": "The Final Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-11"
+  },
+  {
+    "id": "demo-en-mafia-11",
+    "title": "The Final Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-11"
+  },
+  {
+    "id": "demo-en-werewolf-11",
+    "title": "The Final Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-11"
+  },
+  {
+    "id": "demo-en-romance-11",
+    "title": "The Final Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-11"
+  },
+  {
+    "id": "demo-en-rebirth-11",
+    "title": "The Final Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-11"
+  },
+  {
+    "id": "demo-en-paranormal-11",
+    "title": "The Final Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-11"
+  },
+  {
+    "id": "demo-en-adventure-11",
+    "title": "The Final Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-11"
+  },
+  {
+    "id": "demo-en-fantasy-06",
+    "title": "The Golden Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-06"
+  },
+  {
+    "id": "demo-en-billionaire-06",
+    "title": "The Golden Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-06"
+  },
+  {
+    "id": "demo-en-mafia-06",
+    "title": "The Golden Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-06"
+  },
+  {
+    "id": "demo-en-werewolf-06",
+    "title": "The Golden Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-06"
+  },
+  {
+    "id": "demo-en-romance-06",
+    "title": "The Golden Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-06"
+  },
+  {
+    "id": "demo-en-rebirth-06",
+    "title": "The Golden Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-06"
+  },
+  {
+    "id": "demo-en-paranormal-06",
+    "title": "The Golden Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-06"
+  },
+  {
+    "id": "demo-en-adventure-06",
+    "title": "The Golden Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-06"
+  },
+  {
+    "id": "demo-en-fantasy-03",
+    "title": "The Hidden Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-03"
+  },
+  {
+    "id": "demo-en-billionaire-03",
+    "title": "The Hidden Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-03"
+  },
+  {
+    "id": "demo-en-mafia-03",
+    "title": "The Hidden Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-03"
+  },
+  {
+    "id": "demo-en-werewolf-03",
+    "title": "The Hidden Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-03"
+  },
+  {
+    "id": "demo-en-romance-03",
+    "title": "The Hidden Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-03"
+  },
+  {
+    "id": "demo-en-rebirth-03",
+    "title": "The Hidden Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-03"
+  },
+  {
+    "id": "demo-en-paranormal-03",
+    "title": "The Hidden Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-03"
+  },
+  {
+    "id": "demo-en-adventure-03",
+    "title": "The Hidden Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-03"
+  },
+  {
+    "id": "demo-en-fantasy-04",
+    "title": "The Midnight Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-04"
+  },
+  {
+    "id": "demo-en-billionaire-04",
+    "title": "The Midnight Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-04"
+  },
+  {
+    "id": "demo-en-mafia-04",
+    "title": "The Midnight Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-04"
+  },
+  {
+    "id": "demo-en-werewolf-04",
+    "title": "The Midnight Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-04"
+  },
+  {
+    "id": "demo-en-romance-04",
+    "title": "The Midnight Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-04"
+  },
+  {
+    "id": "demo-en-rebirth-04",
+    "title": "The Midnight Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-04"
+  },
+  {
+    "id": "demo-en-paranormal-04",
+    "title": "The Midnight Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-04"
+  },
+  {
+    "id": "demo-en-adventure-04",
+    "title": "The Midnight Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-04"
+  },
+  {
+    "id": "demo-en-fantasy-10",
+    "title": "The Northern Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-10"
+  },
+  {
+    "id": "demo-en-billionaire-10",
+    "title": "The Northern Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-10"
+  },
+  {
+    "id": "demo-en-mafia-10",
+    "title": "The Northern Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-10"
+  },
+  {
+    "id": "demo-en-werewolf-10",
+    "title": "The Northern Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-10"
+  },
+  {
+    "id": "demo-en-romance-10",
+    "title": "The Northern Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-10"
+  },
+  {
+    "id": "demo-en-rebirth-10",
+    "title": "The Northern Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-10"
+  },
+  {
+    "id": "demo-en-paranormal-10",
+    "title": "The Northern Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-10"
+  },
+  {
+    "id": "demo-en-adventure-10",
+    "title": "The Northern Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-10"
+  },
+  {
+    "id": "demo-en-fantasy-07",
+    "title": "The Secret Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-07"
+  },
+  {
+    "id": "demo-en-billionaire-07",
+    "title": "The Secret Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-07"
+  },
+  {
+    "id": "demo-en-mafia-07",
+    "title": "The Secret Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-07"
+  },
+  {
+    "id": "demo-en-werewolf-07",
+    "title": "The Secret Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-07"
+  },
+  {
+    "id": "demo-en-romance-07",
+    "title": "The Secret Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-07"
+  },
+  {
+    "id": "demo-en-rebirth-07",
+    "title": "The Secret Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-07"
+  },
+  {
+    "id": "demo-en-paranormal-07",
+    "title": "The Secret Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-07"
+  },
+  {
+    "id": "demo-en-adventure-07",
+    "title": "The Secret Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-07"
+  },
+  {
+    "id": "demo-en-fantasy-02",
+    "title": "The Silver Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-02"
+  },
+  {
+    "id": "demo-en-billionaire-02",
+    "title": "The Silver Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-02"
+  },
+  {
+    "id": "demo-en-mafia-02",
+    "title": "The Silver Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-02"
+  },
+  {
+    "id": "demo-en-werewolf-02",
+    "title": "The Silver Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-02"
+  },
+  {
+    "id": "demo-en-romance-02",
+    "title": "The Silver Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-02"
+  },
+  {
+    "id": "demo-en-rebirth-02",
+    "title": "The Silver Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-02"
+  },
+  {
+    "id": "demo-en-paranormal-02",
+    "title": "The Silver Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-02"
+  },
+  {
+    "id": "demo-en-adventure-02",
+    "title": "The Silver Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-02"
+  },
+  {
+    "id": "demo-en-fantasy-09",
+    "title": "The Starlit Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-09"
+  },
+  {
+    "id": "demo-en-billionaire-09",
+    "title": "The Starlit Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-09"
+  },
+  {
+    "id": "demo-en-mafia-09",
+    "title": "The Starlit Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-09"
+  },
+  {
+    "id": "demo-en-werewolf-09",
+    "title": "The Starlit Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-09"
+  },
+  {
+    "id": "demo-en-romance-09",
+    "title": "The Starlit Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-09"
+  },
+  {
+    "id": "demo-en-rebirth-09",
+    "title": "The Starlit Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-09"
+  },
+  {
+    "id": "demo-en-paranormal-09",
+    "title": "The Starlit Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-09"
+  },
+  {
+    "id": "demo-en-adventure-09",
+    "title": "The Starlit Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-09"
+  },
+  {
+    "id": "demo-en-fantasy-08",
+    "title": "The Wild Crown",
+    "author": "Lumen Studio",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Fantasy",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed fantasy demo novel about lost magic returning before the kingdom falls.",
+    "slug": "demo-fantasy-08"
+  },
+  {
+    "id": "demo-en-billionaire-08",
+    "title": "The Wild Dynasty",
+    "author": "Lumen Studio",
+    "genres": [
+      "Billionaire"
+    ],
+    "tags": [
+      "Billionaire",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed billionaire demo novel about a contract that turns ambition into an emotional risk.",
+    "slug": "demo-billionaire-08"
+  },
+  {
+    "id": "demo-en-mafia-08",
+    "title": "The Wild Oath",
+    "author": "Lumen Studio",
+    "genres": [
+      "Mafia"
+    ],
+    "tags": [
+      "Mafia",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed mafia demo novel about old loyalties breaking under one dangerous choice.",
+    "slug": "demo-mafia-08"
+  },
+  {
+    "id": "demo-en-werewolf-08",
+    "title": "The Wild Pack",
+    "author": "Lumen Studio",
+    "genres": [
+      "Werewolf"
+    ],
+    "tags": [
+      "Werewolf",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed werewolf demo novel about pack rivals forced to follow the same moonlit trail.",
+    "slug": "demo-werewolf-08"
+  },
+  {
+    "id": "demo-en-romance-08",
+    "title": "The Wild Promise",
+    "author": "Lumen Studio",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Romance",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed romance demo novel about a guarded heart learning to trust again.",
+    "slug": "demo-romance-08"
+  },
+  {
+    "id": "demo-en-rebirth-08",
+    "title": "The Wild Return",
+    "author": "Lumen Studio",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Rebirth",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed rebirth demo novel about a second chance that remembers every old mistake.",
+    "slug": "demo-rebirth-08"
+  },
+  {
+    "id": "demo-en-paranormal-08",
+    "title": "The Wild Shadow",
+    "author": "Lumen Studio",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Paranormal",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed paranormal demo novel about a hidden power waking after midnight.",
+    "slug": "demo-paranormal-08"
+  },
+  {
+    "id": "demo-en-adventure-08",
+    "title": "The Wild Voyage",
+    "author": "Lumen Studio",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Adventure",
+      "Demo Catalog",
+      "Completed"
+    ],
+    "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
+    "slug": "demo-adventure-08"
+  }
+]
