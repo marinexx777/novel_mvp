@@ -1,0 +1,23 @@
+{
+  "id": "beyond-the-scan",
+  "language": "en",
+  "title": "Beyond The Scan",
+  "slug": "beyond-the-scan",
+  "author": "Lumen Reads",
+  "description": "A brilliant electronics student abandons engineering for medicine after a teacher's preventable death, discovering nuclear medicine and building a legacy of advanced diagnostics.",
+  "longDescription": "Daniel Mercer leaves electronics for medicine after a teacher dies from a treatable condition. With friends Clara and Marcus, he enters nuclear medicine, where friendship becomes love, admiration turns to jealousy, and he builds a revolutionary imaging technology while haunted by the woman they could not save.",
+  "cover": "/covers/beyond-the-scan.png",
+  "status": "completed",
+  "genres": [
+    "Rebirth"
+  ],
+  "tags": [
+    "Medical",
+    "Nuclear Medicine",
+    "Friendship"
+  ],
+  "chapterCount": 34,
+  "featured": true,
+  "ranking": 100,
+  "translationOf": null
+}

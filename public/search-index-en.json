@@ -1,5 +1,20 @@
 [
   {
+    "id": "a-wind-through-suzhou",
+    "title": "A Wind Through Suzhou",
+    "author": "Lumen Reads",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Art",
+      "Business",
+      "Mystery"
+    ],
+    "description": "An interior designer uncovers secrets in Suzhou's art world while navigating business drama, mystery, and romance.",
+    "slug": "a-wind-through-suzhou"
+  },
+  {
     "id": "ashbound-alpha",
     "title": "Ashbound Alpha",
     "author": "Nora Vale",
@@ -17,6 +32,21 @@
     "slug": "ashbound-alpha"
   },
   {
+    "id": "beyond-the-scan",
+    "title": "Beyond The Scan",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Medical",
+      "Nuclear Medicine",
+      "Friendship"
+    ],
+    "description": "A brilliant electronics student abandons engineering for medicine after a teacher's preventable death, discovering nuclear medicine and building a legacy of advanced diagnostics.",
+    "slug": "beyond-the-scan"
+  },
+  {
     "id": "crown-of-the-last-mage",
     "title": "Crown of the Last Mage",
     "author": "Elias Rowan",
@@ -32,6 +62,36 @@
     ],
     "description": "A fallen mage wakes before the war that killed his kingdom and races to change the final page of history.",
     "slug": "crown-of-the-last-mage"
+  },
+  {
+    "id": "heather-and-honey",
+    "title": "Heather And Honey",
+    "author": "Lumen Reads",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Coercion",
+      "Resilience",
+      "Beekeeping"
+    ],
+    "description": "A young woman returns to her Welsh valley to escape a wealthy heir's coercive campaign, rebuilding her life through bees and wild honey.",
+    "slug": "heather-and-honey"
+  },
+  {
+    "id": "lines-across-the-sand",
+    "title": "Lines Across The Sand",
+    "author": "Lumen Reads",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Engineering",
+      "Desert",
+      "Family Secrets"
+    ],
+    "description": "An engineer must build a high-speed rail across a brutal desert while uncovering a family mystery buried beneath the dust.",
+    "slug": "lines-across-the-sand"
   },
   {
     "id": "moonlit-contract",
@@ -170,6 +230,21 @@
     "slug": "demo-adventure-01"
   },
   {
+    "id": "the-blade-without-equal",
+    "title": "The Blade Without Equal",
+    "author": "Lumen Reads",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Historical",
+      "Martial Arts",
+      "Corruption"
+    ],
+    "description": "A young agent of the Ming dynasty's secret police trains under a master swordsman, uncovering river-god fraud and corruption.",
+    "slug": "the-blade-without-equal"
+  },
+  {
     "id": "demo-en-fantasy-05",
     "title": "The Crimson Crown",
     "author": "Lumen Studio",
@@ -288,6 +363,21 @@
     ],
     "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
     "slug": "demo-adventure-05"
+  },
+  {
+    "id": "the-distance-between-breaths",
+    "title": "The Distance Between Breaths",
+    "author": "Lumen Reads",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Medical",
+      "Epidemic",
+      "Second Chance"
+    ],
+    "description": "Two doctors reunite during a mysterious respiratory illness, confronting family secrets and learning that surviving a crisis is not the same as living.",
+    "slug": "the-distance-between-breaths"
   },
   {
     "id": "demo-en-fantasy-11",
@@ -650,6 +740,21 @@
     "slug": "demo-adventure-03"
   },
   {
+    "id": "the-last-ride-home",
+    "title": "The Last Ride Home",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Pandemic",
+      "Volunteers",
+      "Marriage"
+    ],
+    "description": "During a mysterious epidemic, a husband and wife join an improvised network of volunteer drivers, discovering courage in ordinary kindness.",
+    "slug": "the-last-ride-home"
+  },
+  {
     "id": "demo-en-fantasy-04",
     "title": "The Midnight Crown",
     "author": "Lumen Studio",
@@ -888,6 +993,21 @@
     ],
     "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
     "slug": "demo-adventure-10"
+  },
+  {
+    "id": "the-nuclear-medicine-files",
+    "title": "The Nuclear Medicine Files",
+    "author": "Lumen Reads",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Medical Mystery",
+      "Crime",
+      "Identity"
+    ],
+    "description": "A nuclear medicine professor's disappearance sparks an investigation that uncovers twin identities and a criminal conspiracy.",
+    "slug": "the-nuclear-medicine-files"
   },
   {
     "id": "demo-en-fantasy-07",
@@ -1250,6 +1370,21 @@
     "slug": "demo-adventure-09"
   },
   {
+    "id": "the-village-after-the-fall",
+    "title": "The Village After The Fall",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Redemption",
+      "Family",
+      "Construction"
+    ],
+    "description": "A disgraced property developer returns to his childhood village, discovering that inheritance is not what can be sold but what must be passed on.",
+    "slug": "the-village-after-the-fall"
+  },
+  {
     "id": "demo-en-fantasy-08",
     "title": "The Wild Crown",
     "author": "Lumen Studio",
@@ -1368,5 +1503,20 @@
     ],
     "description": "A completed adventure demo novel about a map, a secret route, and one last brave decision.",
     "slug": "demo-adventure-08"
+  },
+  {
+    "id": "where-the-ouse-remembers",
+    "title": "Where The Ouse Remembers",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Family",
+      "Heritage",
+      "New Beginnings"
+    ],
+    "description": "A widow returns to York with her daughter, discovering that inheritance is not property but tradition, community, and the courage to start again.",
+    "slug": "where-the-ouse-remembers"
   }
 ]

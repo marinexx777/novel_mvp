@@ -17,6 +17,51 @@
     "slug": "alpha-des-cendres"
   },
   {
+    "id": "apres-la-chute",
+    "title": "Apres La Chute",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Redemption",
+      "Family",
+      "Construction"
+    ],
+    "description": "A disgraced property developer returns to his childhood village, discovering that inheritance is not what can be sold but what must be passed on.",
+    "slug": "apres-la-chute"
+  },
+  {
+    "id": "au-dela-de-limage",
+    "title": "Au Dela De Limage",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Medical",
+      "Nuclear Medicine",
+      "Friendship"
+    ],
+    "description": "A brilliant electronics student abandons engineering for medicine after a teacher's preventable death, discovering nuclear medicine and building a legacy of advanced diagnostics.",
+    "slug": "au-dela-de-limage"
+  },
+  {
+    "id": "ce-que-la-saone-noublie-pas",
+    "title": "Ce Que La Saone Noublie Pas",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Family",
+      "Heritage",
+      "New Beginnings"
+    ],
+    "description": "A widow returns to York with her daughter, discovering that inheritance is not property but tradition, community, and the courage to start again.",
+    "slug": "ce-que-la-saone-noublie-pas"
+  },
+  {
     "id": "contrat-sous-la-lune",
     "title": "Contrat sous la lune",
     "author": "Maya Sterling",
@@ -380,6 +425,81 @@
     "slug": "demo-milliardaire-03"
   },
   {
+    "id": "la-lame-sans-egale",
+    "title": "La Lame Sans Egale",
+    "author": "Lumen Reads",
+    "genres": [
+      "Fantasy"
+    ],
+    "tags": [
+      "Historical",
+      "Martial Arts",
+      "Corruption"
+    ],
+    "description": "A young agent of the Ming dynasty's secret police trains under a master swordsman, uncovering river-god fraud and corruption.",
+    "slug": "la-lame-sans-egale"
+  },
+  {
+    "id": "la-ligne-au-dela-des-dunes",
+    "title": "La Ligne Au Dela Des Dunes",
+    "author": "Lumen Reads",
+    "genres": [
+      "Adventure"
+    ],
+    "tags": [
+      "Engineering",
+      "Desert",
+      "Family Secrets"
+    ],
+    "description": "An engineer must build a high-speed rail across a brutal desert while uncovering a family mystery buried beneath the dust.",
+    "slug": "la-ligne-au-dela-des-dunes"
+  },
+  {
+    "id": "le-dernier-trajet-avant-laube",
+    "title": "Le Dernier Trajet Avant Laube",
+    "author": "Lumen Reads",
+    "genres": [
+      "Rebirth"
+    ],
+    "tags": [
+      "Pandemic",
+      "Volunteers",
+      "Marriage"
+    ],
+    "description": "During a mysterious epidemic, a husband and wife join an improvised network of volunteer drivers, discovering courage in ordinary kindness.",
+    "slug": "le-dernier-trajet-avant-laube"
+  },
+  {
+    "id": "le-vent-de-suzhou",
+    "title": "Le Vent De Suzhou",
+    "author": "Lumen Reads",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Art",
+      "Business",
+      "Mystery"
+    ],
+    "description": "An interior designer uncovers secrets in Suzhou's art world while navigating business drama, mystery, and romance.",
+    "slug": "le-vent-de-suzhou"
+  },
+  {
+    "id": "les-dossiers-de-medicine-nucleaire",
+    "title": "Les Dossiers De Medicine Nucleaire",
+    "author": "Lumen Reads",
+    "genres": [
+      "Paranormal"
+    ],
+    "tags": [
+      "Medical Mystery",
+      "Crime",
+      "Identity"
+    ],
+    "description": "A nuclear medicine professor's disappearance sparks an investigation that uncovers twin identities and a criminal conspiracy.",
+    "slug": "les-dossiers-de-medicine-nucleaire"
+  },
+  {
     "id": "demo-fr-loup-garou-07",
     "title": "Meute cachee",
     "author": "Studio Lumen",
@@ -543,6 +663,21 @@
     ],
     "description": "Un roman loup-garou complet autour de des rivaux de meute forces de suivre la meme piste lunaire.",
     "slug": "demo-loup-garou-03"
+  },
+  {
+    "id": "miel-des-hautes-terres",
+    "title": "Miel Des Hautes Terres",
+    "author": "Lumen Reads",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Coercion",
+      "Resilience",
+      "Beekeeping"
+    ],
+    "description": "A young woman returns to her Welsh valley to escape a wealthy heir's coercive campaign, rebuilding her life through bees and wild honey.",
+    "slug": "miel-des-hautes-terres"
   },
   {
     "id": "demo-fr-paranormal-07",
@@ -873,6 +1008,21 @@
     ],
     "description": "Un roman romance complet autour de un coeur prudent qui reapprend la confiance.",
     "slug": "demo-romance-03"
+  },
+  {
+    "id": "quand-la-ville-retint-son-souffle",
+    "title": "Quand La Ville Retint Son Souffle",
+    "author": "Lumen Reads",
+    "genres": [
+      "Romance"
+    ],
+    "tags": [
+      "Medical",
+      "Epidemic",
+      "Second Chance"
+    ],
+    "description": "Two doctors reunite during a mysterious respiratory illness, confronting family secrets and learning that surviving a crisis is not the same as living.",
+    "slug": "quand-la-ville-retint-son-souffle"
   },
   {
     "id": "demo-fr-renaissance-07",

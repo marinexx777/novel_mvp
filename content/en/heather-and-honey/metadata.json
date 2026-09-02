@@ -1,0 +1,23 @@
+{
+  "id": "heather-and-honey",
+  "language": "en",
+  "title": "Heather And Honey",
+  "slug": "heather-and-honey",
+  "author": "Lumen Reads",
+  "description": "A young woman returns to her Welsh valley to escape a wealthy heir's coercive campaign, rebuilding her life through bees and wild honey.",
+  "longDescription": "Emma Hayes is lured home by a fake family emergency, only to face Gavin Price's campaign of coercion. With a local officer uncovering corruption, she builds something that cannot be bought: a life rooted in bees, wild honey, and mountain knowledge.",
+  "cover": "/covers/heather-and-honey.png",
+  "status": "completed",
+  "genres": [
+    "Romance"
+  ],
+  "tags": [
+    "Coercion",
+    "Resilience",
+    "Beekeeping"
+  ],
+  "chapterCount": 32,
+  "featured": false,
+  "ranking": 0,
+  "translationOf": null
+}

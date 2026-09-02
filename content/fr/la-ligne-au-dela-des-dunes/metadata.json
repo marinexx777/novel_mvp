@@ -1,0 +1,23 @@
+{
+  "id": "la-ligne-au-dela-des-dunes",
+  "language": "fr",
+  "title": "La Ligne Au Dela Des Dunes",
+  "slug": "la-ligne-au-dela-des-dunes",
+  "author": "Lumen Reads",
+  "description": "An engineer must build a high-speed rail across a brutal desert while uncovering a family mystery buried beneath the dust.",
+  "longDescription": "Daniel Mercer is sent to the Kingdom of Almar to build a high-speed rail corridor across a brutal desert. As accidents expose old fractures, he discovers the line through the desert is not the only thing being built—a family broken decades earlier waits beneath the dust.",
+  "cover": "/covers/lines-across-the-sand.png",
+  "status": "completed",
+  "genres": [
+    "Adventure"
+  ],
+  "tags": [
+    "Engineering",
+    "Desert",
+    "Family Secrets"
+  ],
+  "chapterCount": 36,
+  "featured": false,
+  "ranking": 0,
+  "translationOf": "lines-across-the-sand"
+}

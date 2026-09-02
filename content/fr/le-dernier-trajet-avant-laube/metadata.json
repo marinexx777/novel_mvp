@@ -1,0 +1,23 @@
+{
+  "id": "le-dernier-trajet-avant-laube",
+  "language": "fr",
+  "title": "Le Dernier Trajet Avant Laube",
+  "slug": "le-dernier-trajet-avant-laube",
+  "author": "Lumen Reads",
+  "description": "During a mysterious epidemic, a husband and wife join an improvised network of volunteer drivers, discovering courage in ordinary kindness.",
+  "longDescription": "When Ravensbridge shuts down, Ethan Cole joins volunteer drivers transporting doctors and patients through silent streets. His wife Maya works with a neighborhood response team. Together they discover courage is rarely dramatic, and kindness keeps a city alive.",
+  "cover": "/covers/the-last-ride-home.png",
+  "status": "completed",
+  "genres": [
+    "Rebirth"
+  ],
+  "tags": [
+    "Pandemic",
+    "Volunteers",
+    "Marriage"
+  ],
+  "chapterCount": 34,
+  "featured": false,
+  "ranking": 0,
+  "translationOf": "the-last-ride-home"
+}

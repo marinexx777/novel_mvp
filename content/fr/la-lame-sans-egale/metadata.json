@@ -1,0 +1,23 @@
+{
+  "id": "la-lame-sans-egale",
+  "language": "fr",
+  "title": "La Lame Sans Egale",
+  "slug": "la-lame-sans-egale",
+  "author": "Lumen Reads",
+  "description": "A young agent of the Ming dynasty's secret police trains under a master swordsman, uncovering river-god fraud and corruption.",
+  "longDescription": "In Ming dynasty China, young Lin Zuo trains under Tang Xiao in the Jinyiwei. Their investigation into river-god fraud and corruption exposes a conspiracy involving pirate leaders and imperial betrayal, testing loyalty and honor.",
+  "cover": "/covers/the-blade-without-equal.png",
+  "status": "completed",
+  "genres": [
+    "Fantasy"
+  ],
+  "tags": [
+    "Historical",
+    "Martial Arts",
+    "Corruption"
+  ],
+  "chapterCount": 32,
+  "featured": true,
+  "ranking": 99,
+  "translationOf": "the-blade-without-equal"
+}

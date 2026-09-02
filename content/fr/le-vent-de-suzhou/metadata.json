@@ -1,0 +1,23 @@
+{
+  "id": "le-vent-de-suzhou",
+  "language": "fr",
+  "title": "Le Vent De Suzhou",
+  "slug": "le-vent-de-suzhou",
+  "author": "Lumen Reads",
+  "description": "An interior designer uncovers secrets in Suzhou's art world while navigating business drama, mystery, and romance.",
+  "longDescription": "Li Mufeng's failing design company is saved by a mysterious deal with Huashi Group. As he navigates Suzhou's world of Chinese painting, gardens, and furniture craft, he uncovers family secrets and discovers that art, business, and love are more intertwined than he imagined.",
+  "cover": "/covers/a-wind-through-suzhou.png",
+  "status": "completed",
+  "genres": [
+    "Romance"
+  ],
+  "tags": [
+    "Art",
+    "Business",
+    "Mystery"
+  ],
+  "chapterCount": 30,
+  "featured": true,
+  "ranking": 98,
+  "translationOf": "a-wind-through-suzhou"
+}

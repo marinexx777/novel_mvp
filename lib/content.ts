@@ -61,11 +61,21 @@ export function getNovelsByCategory(locale: Locale, categorySlug: string) {
     return [];
   }
 
-  return getAllNovels(locale).filter((novel) =>
-    novel.genres.some(
-      (genre) => normalizeLabel(genre) === normalizeLabel(category.label)
+  return getAllNovels(locale)
+    .filter((novel) =>
+      novel.genres.some(
+        (genre) => normalizeLabel(genre) === normalizeLabel(category.label)
+      )
     )
-  );
+    .sort((a, b) => {
+      const aReal = isRealNovel(a) ? 0 : 1;
+      const bReal = isRealNovel(b) ? 0 : 1;
+      return aReal - bReal;
+    });
+}
+
+function isRealNovel(novel: { chapterCount: number }) {
+  return novel.chapterCount > 20;
 }
 
 export function getChapter(

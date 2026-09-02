@@ -25,21 +25,31 @@ function getPageCopy(locale: Locale) {
       };
 }
 
+function isRealNovel(novel: { chapterCount: number }) {
+  return novel.chapterCount > 20;
+}
+
 export function CategoriesPage({ locale }: CategoriesPageProps) {
   const copy = getLocaleCopy(locale);
   const pageCopy = getPageCopy(locale);
   const categories = getCategories(locale);
-  const novels: BrowsableNovel[] = getAllNovels(locale).map((novel) => ({
-    id: novel.id,
-    title: novel.title,
-    slug: novel.slug,
-    author: novel.author,
-    description: novel.description,
-    cover: novel.cover,
-    genres: novel.genres,
-    tags: novel.tags,
-    chapterCount: novel.chapterCount
-  }));
+  const novels: BrowsableNovel[] = getAllNovels(locale)
+    .map((novel) => ({
+      id: novel.id,
+      title: novel.title,
+      slug: novel.slug,
+      author: novel.author,
+      description: novel.description,
+      cover: novel.cover,
+      genres: novel.genres,
+      tags: novel.tags,
+      chapterCount: novel.chapterCount
+    }))
+    .sort((a, b) => {
+      const aReal = isRealNovel(a) ? 0 : 1;
+      const bReal = isRealNovel(b) ? 0 : 1;
+      return aReal - bReal || a.title.localeCompare(b.title);
+    });
 
   return (
     <div className="bg-[#f7f5f1]">

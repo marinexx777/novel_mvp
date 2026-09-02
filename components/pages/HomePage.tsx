@@ -89,25 +89,33 @@ function getHomeUi(locale: Locale) {
 type HomeUi = ReturnType<typeof getHomeUi>;
 type LocaleCopy = ReturnType<typeof getLocaleCopy>;
 
+function isRealNovel(novel: { chapterCount: number }) {
+  return novel.chapterCount > 20;
+}
+
 export function HomePage({ locale }: HomePageProps) {
   const copy = getLocaleCopy(locale);
   const ui = getHomeUi(locale);
   const allNovels = getAllNovels(locale);
-  const categories = getCategories(locale);
+  const categories = getCategories(locale)
+    .map((category) => {
+      const realCount = getNovelsByCategory(locale, category.slug).filter(
+        isRealNovel
+      ).length;
+      return { ...category, realCount };
+    })
+    .sort((a, b) => b.realCount - a.realCount);
   const featured = getFeaturedNovels(locale);
   const heroNovels = allNovels.slice(0, 3);
   const primaryNovel = heroNovels[0];
   const sideFeatures = heroNovels.slice(1, 3);
-  const curatedSource = [
-    ...featured,
-    ...allNovels.filter(
-      (novel) => !featured.some((featuredNovel) => featuredNovel.id === novel.id)
-    )
-  ];
-  const curated = curatedSource.slice(0, 4);
-  const latest = allNovels.slice(0, 6);
-  const ranking = allNovels.slice(0, 5);
-  const completed = getCompletedNovels(locale).slice(0, 6);
+  const realNovels = allNovels.filter(isRealNovel);
+  const curated = realNovels.slice(0, 4);
+  const latest = realNovels.slice(0, 6);
+  const ranking = realNovels.slice(0, 5);
+  const completed = getCompletedNovels(locale)
+    .filter(isRealNovel)
+    .slice(0, 6);
 
   return (
     <div className="bg-[#f7f5f1]">
@@ -276,12 +284,12 @@ export function HomePage({ locale }: HomePageProps) {
         <NovelSection
           title={copy.home.featured}
           locale={locale}
-          novels={featured}
+          novels={featured.filter(isRealNovel)}
         />
         <NovelSection
           title={copy.home.trending}
           locale={locale}
-          novels={allNovels.slice(0, 3)}
+          novels={realNovels.slice(0, 3)}
         />
 
         <section className="mt-12">
